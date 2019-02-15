@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="device_name" type="id" />
+    <item name="device_item_more" type="id" />
+    <item name="device_type_image" type="id" />
+    <item name="device_light_button" type="id" />
+    <item name="device_monitor_button" type="id" />
+    <item name="device_lock_button" type="id" />
+</resources>
